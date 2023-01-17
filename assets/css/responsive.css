@@ -1,0 +1,519 @@
+@media all and (max-width: 1280px) {
+	.flip_box {
+		height: 290px;
+	}
+	.header_area {
+		padding: 25px 10px;
+	}
+}
+
+@media all and (max-width: 1200px) {
+	.col_box {
+		flex: 0 0 25%;
+		max-width: 25%;
+	}
+	.flip_box {
+		height: 340px;
+	}
+	.creators_dress.ccd_3::before {
+		width: 40%;
+	}
+	.overflow_hidden {
+		height: 160px;
+	}
+}
+
+@media all and (max-width: 1199px) {
+	.club_area{
+		padding-top: 80px;
+	}
+	.right_club_items {
+		max-width: 500px;
+		margin: 0 auto;
+		margin-top: 60px
+	}
+	.creators_dress .ccd_discrip p {
+		font-size: 16px;
+	}
+	.creators_dress.ccd_1 .ccd_discrip {
+		padding-left: 0;
+	}
+	.creators_dress.ccd_2 .ccd_discrip {
+		padding-left: 0;
+	}
+	.creators_dress.ccd_2 img {
+		margin-left: 0;
+	}
+	.creators_dress.ccd_1::before {
+		width: 40%;
+		height: 40px;
+		bottom: -50px;
+		right: 0;
+	}
+	.creators_dress.ccd_3::before {
+		width: 30%;
+		height: 140px;
+	}
+	.creators_dress.ccd_4::before {
+		width: 50px;
+		left: 200px;
+	}
+	.col_box {
+		flex: 0 0 33.333333%;
+		max-width: 33.333333%;
+	}
+	.flip_box {
+		height: 380px;
+	}
+	.blockdegen ul li {
+		font-size: 36px;
+		padding: 0px 25px;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+	
+}
+
+
+@media all and (min-width: 992px) {
+	.social_icon {
+		display: block !important;
+	}
+	.menu ul{
+		justify-content: flex-end !important;
+	}
+	
+
+}
+
+@media all and (min-width: 2040px) {
+	.blockdegen {
+		padding: 55px 0px;
+	}
+	.overflow_hidden {
+		margin-top: -95px;
+	}
+}
+
+@media all and (min-width: 2750px) {
+	.overflow_hidden {
+		margin-top: -128px;
+		height: 335px;
+	}
+	.blockdegen {
+		padding: 90px 0px;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+
+}
+
+@media all and (max-width: 991px) {
+	h1{
+		font-size: 36px;
+	}
+	p{
+		font-size: 16px;
+	}
+	.social_icon {
+		display: none;
+	}
+	.menu ul{
+		justify-content: center;
+	}
+	.overflow_hidden {
+		height: initial;
+	}
+	.road_map_area, .creators_area, .accordion_area{
+		padding: 60px 0px;
+	}
+	.road_map_title, .road_map_title2{
+		text-align: left !important;
+	}
+	.left_club_items h1 {
+		padding-bottom: 30px;
+	}
+	.product_box ul li {
+		font-size: 16px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.sub_club_items {
+		flex: 0 0 33%;
+		max-width: 33%;
+		margin-top: 14px;
+	}
+	.road_map_title p, .road_map_title2 p {
+		font-size: 26px;
+	}
+	.creators_dress img {
+		width: 200px;
+	}
+	.creators_dress::before {
+		display: none !important;
+	}
+	.creators_dress img{
+		margin-left: 0 !important;
+	}
+	.creators_dress.ccd_4 .ccd_discrip {
+		margin-top: 30px;
+	}
+	.creators_dress.ccd_4{
+		padding-top: 0;
+	}
+	.creators_dress{
+		margin-top: 60px;
+	}
+	.col_box {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.flip_box {
+		height: 420px;
+	}
+	.overflow_hidden {
+		padding: 0px 0px;
+		margin-top: 0px;
+	}
+	.blockdegen {
+		transform: rotate(0deg);
+		padding: 30px 0px;
+	}
+	.blockdegen ul {
+		width: 400%;
+	}
+	.blockdegen ul li {
+		font-size: 24px;
+		padding: 0px 15px;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+	.road-down-img{
+		display: none;
+	}
+
+}
+
+@media all and (max-width: 767px) {
+	h1{
+		font-size: 34px;
+	}
+	p, .product_box ul li, .creators_dress .ccd_discrip p{
+		font-size: 15px;
+	}
+	.road_map_title h1{
+		padding-bottom: 5px;
+	}
+	.road_map_title p, .road_map_title2 p {
+		font-size: 24px;
+	}
+	.club_area{
+		padding-top: 60px;
+	}
+	.sub_club_items {
+		flex: 0 0 33%;
+		max-width: 33%;
+	}
+	.product_box{
+		padding: 40px 30px;
+	}
+	.product_box ul {
+		flex-direction: column;
+		align-items: flex-start;
+		justify-content: flex-start;
+	}
+	.product_box ul li{
+		padding: 20px 0px;
+	}
+	.product_box ul li:first-child{
+		padding-top: 0;
+	}
+	.product_box ul li:last-child{
+		padding-bottom: 0;
+	}
+	.col_box {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.flip_box {
+		height: 335px;
+	}
+	.acc_title h3{
+		font-size: 15px;
+	}
+	.acc_panel p{
+		font-size: 14px;
+	}
+	.road_map_area, .creators_area, .accordion_area {
+		padding: 40px 0px;
+	}
+	.accordion_box{
+		padding-top: 30px;
+	}
+	.sub_club_items {
+		padding-left: 3px;
+		padding-right: 3px;
+	}
+	.club_member{
+		animation: scroll 100s linear infinite;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+
+}
+
+@media all and (max-width: 575px) {
+	h1{
+		font-size: 26px;
+	}
+	p, .creators_dress .ccd_discrip p{
+		font-size: 14px;
+	}
+	.sub_club_items {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.col-lg-10.show_menu {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.creators_dress .ccd_discrip h2 {
+		font-size: 20px;
+		padding-bottom: 10px;
+	}
+	.blockdegen ul li {
+		font-size: 18px;
+	}
+	.menu ul li a{
+		font-size: 16px;
+	}
+	.menu ul li {
+		padding: 0px 20px;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+	.road-down-img{
+		display: none;
+	}
+}
+
+@media all and (max-width: 540px) {
+	h1{
+		font-size: 24px;
+	}
+	.flip_box_front h2{
+		font-size: 22px;
+	}
+	.menu ul li a{
+		font-size: 15px;
+	}
+	.menu ul li {
+		padding: 0px 15px;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+	.road-down-img{
+		display: none;
+	}
+}
+
+@media all and (max-width: 500px) {
+	.flip_box {
+		height: 280px;
+	}
+}
+
+@media all and (max-width: 414px) {
+	.footer_text p{
+		font-size: 12px;
+	}
+	.menu ul li a{
+		font-size: 14px;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+}
+
+@media all and (max-width: 400px) {
+	.menu ul li {
+		padding: 0px 10px;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+	.road-down-img{
+		display: none;
+	}
+}
+
+@media all and (max-width: 380px) {
+	.flip_box {
+		height: 255px;
+	}
+	#road-map .item2 .cap {
+		display: none;
+	}
+	#road-map .item1 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item2 {
+		width: auto;
+		margin-bottom: 20px;
+		height: auto;
+	}
+	#road-map .item3 {
+		width: auto;
+		height: auto;
+	}
+	#road-map .item1 .sg {
+
+		display: none;
+	}
+	.road-down-img{
+		display: none;
+	}
+}
